@@ -1,4 +1,4 @@
-# Pandas Data Analysis Project
+# Stack Overflow Developer Survey Analysis
 
 ## Overview
 This project demonstrates data analysis using Python and the Pandas library.
